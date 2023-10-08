@@ -8,8 +8,8 @@ import streamlit as st
 import openai
 
 # set you API key
-openai.api_key=st.secrets["openai_api"]
-
+#openai.api_key=st.secrets["openai_api"]
+openai.api_key="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"
 
 st.title("Generative AI")
 
